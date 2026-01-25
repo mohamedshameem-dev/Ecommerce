@@ -1,4 +1,4 @@
-#🛒 About eCommerce
+<h1>🛒 About eCommerce</h1>
 
 eCommerce is the backbone of modern digital businesses, combining technology, data, payments, and customer experience to drive online sales at scale. 
 This repository focuses on the analytics and operational side of eCommerce, helping teams understand what really impacts revenue and conversion.
