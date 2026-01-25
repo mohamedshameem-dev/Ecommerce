@@ -6,7 +6,7 @@ This repository focuses on the analytics and operational side of eCommerce, help
 What this covers:
 
 📊 eCommerce Analytics – funnel analysis, conversion rate optimization, drop-offs, refunds & failures
-💳 Payments & Checkout – card flows, iframe vs Flow API, L2/L3 data, success vs failure insights
+💳 Payments & Checkout – card flows, Bank account, BNPL, online & offline payments, invoices, success vs failure insights
 🤖 Automation & AI – predictive analytics, alerting, and workflow automation
 📈 Growth Metrics – AOV, CLV, retention, cohort analysis
 
