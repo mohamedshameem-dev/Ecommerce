@@ -25,3 +25,4 @@ Who this is for:
 2. Product Managers
 3. Data Analysts
 4. Payment & Checkout Teams
+5. New Business Analysts
