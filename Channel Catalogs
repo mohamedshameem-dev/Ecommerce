@@ -1,0 +1,9 @@
+| Channel        | Typical Touchpoints                | Primary IDs/Tracking              |
+|---------------|-----------------------------------|----------------------------------|
+| Web           | PDP, Cart, Checkout, Tracking     | CID/GA cookie, Email/Phone       |
+| App           | Push messages, App checkout       | Device ID, Login ID              |
+| Marketplace   | Search, PDP, Cart                 | Marketplace order ID             |
+| Store (POS)   | BOPIS, BORIS                      | Loyalty ID, Phone                |
+| WhatsApp/SMS  | Order alerts, Support             | Phone number                     |
+| Call Center   | Issue resolution, Upsell          | Phone, CRM ticket                |
+
