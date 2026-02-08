@@ -1,0 +1,8 @@
+| Stage          | KPI                   | Definition                                      | Target  |
+|----------------|----------------------|--------------------------------------------------|---------|
+| Awareness      | CTR                  | Ad clicks ÷ impressions                         | ≥1.5%   |
+| Consideration  | Add-to-Cart Rate     | ATC events ÷ PDP sessions                       | ≥8%     |
+| Purchase       | Payment Success Rate | Successful payments ÷ payment attempts          | ≥92%    |
+| Fulfilment     | On-Time Delivery     | Orders delivered within SLA ÷ delivered orders  | ≥95%    |
+| Post-purchase  | Refund TAT           | Avg days from pickup to refund                  | ≤3 days |
+| Support        | CSAT                 | Post-interaction satisfaction score             | ≥4.5/5  |
