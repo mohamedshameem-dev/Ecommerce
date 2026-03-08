@@ -28,3 +28,4 @@ Who this is for:
 5. New Business Analysts
 
 ## Give a thumbs up if you really liked and learnt something from here.
+
